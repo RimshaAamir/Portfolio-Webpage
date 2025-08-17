@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Software Developer – Contract based",
+    "details": "DeltaLabs · Contract",
+    "description": [
+      "Proposed a strategic initiative to enhance platform functionality and optimize the business model, resulting in project approval.",
+      "Spearheading the development of a hybrid Learning Management System (LMS) under Delta Labs' mentorship for Seed Programming’s platform.",
+      "Leading full-stack development with Next.js, React, Tailwind CSS, and Ruby on Rails.",
+      "Building scalable, interactive features to elevate the user learning experience and platform performance."
+    ],
+    "skills": "Cascading Style Sheets (CSS), HTML"
+  },
+  {
+    "title": "Full Stack Intern",
+    "details": "DeltaLabs - Internship",
+    "description": [
+      "Gained practical experience in full-stack web development by working with technologies including HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Next.js, Ruby, and Ruby on Rails.",
+      "Built and deployed multiple projects, applying both frontend and backend skills.",
+      "Relied on official documentation and self-guided learning to solve problems and deepen technical knowledge."
+    ],
+    "skills": "Full Stack Development"
+  },
+  {
+    "title": "Semantics SEO Content Writer & Copywriter (Part-time)",
+    "details": "Authority Gain (We Are Hiring!) · Part-time · Remote",
+    "description": [
+      "Created in-depth medical content focused on drugs, addiction, and treatment-related topics.",
+      "Wrote B2B marketing material and conversion-focused copy tailored for health and wellness industries.",
+      "Conducted targeted keyword research to align with SEO best practices and user intent.",
+      "Performed topic research and competitive analysis to produce high-authority, search-optimized content."
+    ],
+    "skills": "Semantics, Search Engine Optimization (SEO)"
+  },
+  {
+    "title": "Freelance Senior Copywriter",
+    "details": "Pen Slingers · Freelance · Remote",
+    "description": [
+      "Produced SEO-optimized content and persuasive copy across a variety of niches, including: Finance, Health, Parenting, Real Estate, Food, Stocks, SaaS, and Tech.",
+      "Tailored content to meet specific client goals, tone, and audience expectations.",
+      "Focused on high-ranking keywords, content structure, and readability to improve organic reach and engagement.",
+      "Adapted writing style for blogs, articles and product descriptions."
+    ],
+    "skills": "Copywriting and Article Writing"
+  },
+  {
+    "title": "Undergraduate Teaching Assistant – SE & DSA",
+    "details": "Information Technology University · Full-time",
+    "description": [
+      "Assisting in Software Engineering (SE) and Data Structures & Algorithms (DSA) undergraduate courses.",
+      "Conducting lab sessions, providing hands-on guidance, and helping students understand core programming and software concepts.",
+      "Grading assignments, maintaining academic records, and supporting exam preparation and evaluation.",
+      "In DSA, taught key topics including Linked Lists, Trees, Graphs, B-Trees, Disk Sorting, and traversal algorithms.",
+      "In SE, supported concepts like Software Development Life Cycle (SDLC), UML diagrams, software design principles, and testing practices."
+    ],
+    "skills": "Assistant Teaching"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "image": "assets/lms.jpg",
+    "title": "Hybrid-CS Learning Platform | NRPT (Next.js + Rails)",
+    "description": "Build a next-generation hybrid learning management system that blends interactive course delivery with streamlined administration tools. Developed for Seed Programming under the guidance of Delta Labs, using Next.js, Tailwind CSS, TypeScript, and a Rails API backend.",
+    "timeline": "Jun 2024 – Present"
+  },
+  {
+    "image": "assets/airbnb.jpg",
+    "title": "BreezyBeds | MERN (Airbnb Clone)",
+    "description": "Designed and launched a property rental platform inspired by Airbnb, complete with dedicated dashboards for guests, hosts, and admins. Built using Next.js, TypeScript, Tailwind CSS, and MongoDB.",
+    "timeline": "Sep 2024 – Jan 2025"
+  },
+  {
+    "image": "assets/task.jpg",
+    "title": "Task Management Application | Next.js, TS, Tailwind CSS, Rails",
+    "description": "Developed a productivity tool that allows users to organize their work into buckets and manage individual tasks. Features a Next.js interface connected to a Ruby on Rails API with RESTful architecture.",
+    "timeline": "Sep 2024 – Jan 2025"
+  }
+]
