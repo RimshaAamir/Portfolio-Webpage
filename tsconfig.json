@@ -1,0 +1,36 @@
+// {
+//   "compilerOptions": {
+//     "rootDir": "./src",
+//     "outDir": "./dist",
+//     // "module": "none", // Use "none" to avoid module-related output
+//     "target": "esnext",
+//     "lib": ["dom", "esnext"], // Include DOM for browser APIs
+//     "types": [],
+//     "strict": true,
+//     "jsx": "react-jsx",
+//     "verbatimModuleSyntax": false, // Disable since "none" doesn’t use modules
+//     "isolatedModules": true,
+//     "noUncheckedSideEffectImports": true,
+//     "moduleDetection": "force",
+//     "skipLibCheck": true,
+//     "noUncheckedIndexedAccess": true,
+//     "exactOptionalPropertyTypes": true
+//   }
+// }
+
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "target": "esnext",
+    "lib": ["dom", "esnext"],
+    "types": [],
+    "strict": true,
+    "skipLibCheck": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "module": "none",          // 👈 Add this
+    "moduleDetection": "legacy", // 👈 Change this
+    "isolatedModules": false     // 👈 Disable this
+  }
+}
